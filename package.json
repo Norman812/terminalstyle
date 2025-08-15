@@ -1,7 +1,10 @@
 {
   "name": "terminalstyle",
-  "version": "2.0.0",
-  "repository": "terminalstyle",
+  "version": "2.2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Norman812/terminalstyle"
+  },
   "description": "terminalstyle is a lightweight, zero-dependency Node.js library that makes styling your terminal output fast, easy, and reliable. It supports standard ANSI colors, modifiers (bold, underline, italic, etc.), background colors, RGB/HEX, and even lets you enable/disable styling dynamically.",
   "module": "index.mjs",
   "types": "index.d.ts",
